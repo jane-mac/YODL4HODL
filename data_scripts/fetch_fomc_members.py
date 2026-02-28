@@ -177,14 +177,43 @@ POLICY_STANCE = {
     "Stanley Fischer": 0,
     "Donald L. Kohn": 0,
 
-    # Greenspan era
-    "Alan Greenspan": 0,  # Pragmatist
+    # Greenspan era - Governors
+    "Alan Greenspan": 0,   # Pragmatist
     "Roger W. Ferguson Jr.": 0,
+    "Wayne D. Angell": 2,          # Strong inflation hawk
+    "Manuel H. Johnson": -1,       # Accommodative, often pushed for cuts
+    "Martha R. Seger": -2,         # Strong dove, frequently dissented for lower rates
+    "Edward W. Kelley Jr.": 0,     # Centrist
+    "John P. LaWare": 0,           # Centrist
+    "David W. Mullins Jr.": 0,     # Centrist/pragmatic
+    "Lawrence B. Lindsey": 1,      # Supply-sider, leaned hawkish on inflation
+    "Susan M. Phillips": 0,        # Centrist
+    "Alice M. Rivlin": 0,          # Pragmatist/centrist
+    "Laurence H. Meyer": 1,        # Inflation hawk, favored pre-emptive tightening
+    "Edward M. Gramlich": -1,      # Dove, concerned with employment
+    "Mark W. Olson": 0,            # Centrist
+    "Susan Schmidt Bies": 0,       # Centrist
+    "Randall S. Kroszner": 1,      # Leans hawk
+    "Kevin M. Warsh": 1,           # Hawk
 
     # Volcker
     "Paul A. Volcker": 2,  # Famous hawk
 
-    # Bank presidents
+    # Bank presidents - Greenspan era
+    "E. Gerald Corrigan": 0,        # NY Fed, pragmatist
+    "William J. McDonough": 0,      # NY Fed, pragmatist
+    "Gary H. Stern": 1,             # Moderate hawk, inflation-focused
+    "Robert D. McTeer Jr.": -1,     # Dove, "lone ranger" dissenter for cuts
+    "Thomas M. Hoenig": 2,          # Strong hawk (already in list below but adding here)
+    "William Poole": 2,             # Strong hawk
+    "J. Alfred Broaddus Jr.": 2,    # Strong hawk
+    "Cathy E. Minehan": 1,          # Moderate hawk
+    "Michael H. Moskow": 1,         # Moderate hawk
+    "Anthony M. Santomero": 0,      # Centrist
+    "Jack Guynn": 0,                # Centrist
+    "Timothy F. Geithner": 0,       # Pragmatist/centrist
+
+    # Bank presidents - modern (already included below, kept for completeness)
     "James Bullard": 1,
     "Esther L. George": 2,  # Strong hawk
     "Neel Kashkari": -1,  # Dove
