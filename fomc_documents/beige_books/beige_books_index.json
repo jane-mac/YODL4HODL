@@ -1,0 +1,2186 @@
+[
+  {
+    "date": null,
+    "url": "https://www.federalreserve.gov/monetarypolicy/publications/beige-book-default.htm",
+    "filename": "beige_book_unknown.html",
+    "size_bytes": 87520
+  },
+  {
+    "date": null,
+    "url": "https://www.federalreserve.gov",
+    "filename": "beige_book_unknown.html",
+    "size_bytes": 108854
+  },
+  {
+    "date": "1996-10",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook199610.htm",
+    "filename": "beige_book_199610.html",
+    "size_bytes": 43636
+  },
+  {
+    "date": "1996-10-30",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/1996/19961030/default.htm",
+    "filename": "beige_book_19961030.html",
+    "size_bytes": 19153
+  },
+  {
+    "date": "1996-12",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook199612.htm",
+    "filename": "beige_book_199612.html",
+    "size_bytes": 43636
+  },
+  {
+    "date": "1996-12-04",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/1996/19961204/default.htm",
+    "filename": "beige_book_19961204.html",
+    "size_bytes": 18162
+  },
+  {
+    "date": "1997-01",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook199701.htm",
+    "filename": "beige_book_199701.html",
+    "size_bytes": 43634
+  },
+  {
+    "date": "1997-01-22",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/1997/19970122/default.htm",
+    "filename": "beige_book_19970122.html",
+    "size_bytes": 16304
+  },
+  {
+    "date": "1997-03",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook199703.htm",
+    "filename": "beige_book_199703.html",
+    "size_bytes": 43632
+  },
+  {
+    "date": "1997-03-12",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/1997/19970312/default.htm",
+    "filename": "beige_book_19970312.html",
+    "size_bytes": 17557
+  },
+  {
+    "date": "1997-05-07",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/1997/19970507/default.htm",
+    "filename": "beige_book_19970507.html",
+    "size_bytes": 18495
+  },
+  {
+    "date": "1997-06",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook199706.htm",
+    "filename": "beige_book_199706.html",
+    "size_bytes": 43630
+  },
+  {
+    "date": "1997-06-18",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/1997/19970618/default.htm",
+    "filename": "beige_book_19970618.html",
+    "size_bytes": 20123
+  },
+  {
+    "date": "1997-08-06",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/1997/19970806/default.htm",
+    "filename": "beige_book_19970806.html",
+    "size_bytes": 18379
+  },
+  {
+    "date": "1997-09",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook199709.htm",
+    "filename": "beige_book_199709.html",
+    "size_bytes": 43640
+  },
+  {
+    "date": "1997-09-17",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/1997/19970917/default.htm",
+    "filename": "beige_book_19970917.html",
+    "size_bytes": 18229
+  },
+  {
+    "date": "1997-10",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook199710.htm",
+    "filename": "beige_book_199710.html",
+    "size_bytes": 43636
+  },
+  {
+    "date": "1997-10-29",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/1997/19971029/default.htm",
+    "filename": "beige_book_19971029.html",
+    "size_bytes": 16296
+  },
+  {
+    "date": "1997-12",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook199712.htm",
+    "filename": "beige_book_199712.html",
+    "size_bytes": 43636
+  },
+  {
+    "date": "1997-12-03",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/1997/19971203/default.htm",
+    "filename": "beige_book_19971203.html",
+    "size_bytes": 16621
+  },
+  {
+    "date": "1998-01",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook199801.htm",
+    "filename": "beige_book_199801.html",
+    "size_bytes": 43636
+  },
+  {
+    "date": "1998-01-21",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/1998/19980121/default.htm",
+    "filename": "beige_book_19980121.html",
+    "size_bytes": 17862
+  },
+  {
+    "date": "1998-03",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook199803.htm",
+    "filename": "beige_book_199803.html",
+    "size_bytes": 43632
+  },
+  {
+    "date": "1998-03-18",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/1998/19980318/default.htm",
+    "filename": "beige_book_19980318.html",
+    "size_bytes": 19448
+  },
+  {
+    "date": "1998-05-06",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/1998/19980506/default.htm",
+    "filename": "beige_book_19980506.html",
+    "size_bytes": 16517
+  },
+  {
+    "date": "1998-06",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook199806.htm",
+    "filename": "beige_book_199806.html",
+    "size_bytes": 43630
+  },
+  {
+    "date": "1998-06-17",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/1998/19980617/default.htm",
+    "filename": "beige_book_19980617.html",
+    "size_bytes": 18736
+  },
+  {
+    "date": "1998-08-05",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/1998/19980805/default.htm",
+    "filename": "beige_book_19980805.html",
+    "size_bytes": 16977
+  },
+  {
+    "date": "1998-09",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook199809.htm",
+    "filename": "beige_book_199809.html",
+    "size_bytes": 43638
+  },
+  {
+    "date": "1998-09-16",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/1998/19980916/default.htm",
+    "filename": "beige_book_19980916.html",
+    "size_bytes": 15946
+  },
+  {
+    "date": "1998-11-04",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/1998/19981104/default.htm",
+    "filename": "beige_book_19981104.html",
+    "size_bytes": 18168
+  },
+  {
+    "date": "1998-12",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook199812.htm",
+    "filename": "beige_book_199812.html",
+    "size_bytes": 43636
+  },
+  {
+    "date": "1998-12-09",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/1998/19981209/default.htm",
+    "filename": "beige_book_19981209.html",
+    "size_bytes": 16125
+  },
+  {
+    "date": "1999-01",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook199901.htm",
+    "filename": "beige_book_199901.html",
+    "size_bytes": 43636
+  },
+  {
+    "date": "1999-01-20",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/1999/19990120/default.htm",
+    "filename": "beige_book_19990120.html",
+    "size_bytes": 17540
+  },
+  {
+    "date": "1999-03",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook199903.htm",
+    "filename": "beige_book_199903.html",
+    "size_bytes": 43632
+  },
+  {
+    "date": "1999-03-17",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/1999/19990317/default.htm",
+    "filename": "beige_book_19990317.html",
+    "size_bytes": 18848
+  },
+  {
+    "date": "1999-05-05",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/1999/19990505/default.htm",
+    "filename": "beige_book_19990505.html",
+    "size_bytes": 17896
+  },
+  {
+    "date": "1999-06",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook199906.htm",
+    "filename": "beige_book_199906.html",
+    "size_bytes": 43630
+  },
+  {
+    "date": "1999-06-16",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/1999/19990616/default.htm",
+    "filename": "beige_book_19990616.html",
+    "size_bytes": 19308
+  },
+  {
+    "date": "1999-08-11",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/1999/19990811/default.htm",
+    "filename": "beige_book_19990811.html",
+    "size_bytes": 18369
+  },
+  {
+    "date": "1999-09",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook199909.htm",
+    "filename": "beige_book_199909.html",
+    "size_bytes": 43640
+  },
+  {
+    "date": "1999-09-22",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/1999/19990922/default.htm",
+    "filename": "beige_book_19990922.html",
+    "size_bytes": 19352
+  },
+  {
+    "date": "1999-11-03",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/1999/19991103/default.htm",
+    "filename": "beige_book_19991103.html",
+    "size_bytes": 16874
+  },
+  {
+    "date": "1999-12",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook199912.htm",
+    "filename": "beige_book_199912.html",
+    "size_bytes": 43636
+  },
+  {
+    "date": "1999-12-08",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/1999/19991208/default.htm",
+    "filename": "beige_book_19991208.html",
+    "size_bytes": 17219
+  },
+  {
+    "date": "2000-01",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200001.htm",
+    "filename": "beige_book_200001.html",
+    "size_bytes": 43636
+  },
+  {
+    "date": "2000-01-19",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2000/20000119/default.htm",
+    "filename": "beige_book_20000119.html",
+    "size_bytes": 18146
+  },
+  {
+    "date": "2000-03",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200003.htm",
+    "filename": "beige_book_200003.html",
+    "size_bytes": 43630
+  },
+  {
+    "date": "2000-03-08",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2000/20000308/default.htm",
+    "filename": "beige_book_20000308.html",
+    "size_bytes": 16619
+  },
+  {
+    "date": "2000-05-03",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2000/20000503/default.htm",
+    "filename": "beige_book_20000503.html",
+    "size_bytes": 16176
+  },
+  {
+    "date": "2000-06",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200006.htm",
+    "filename": "beige_book_200006.html",
+    "size_bytes": 43630
+  },
+  {
+    "date": "2000-06-14",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2000/20000614/default.htm",
+    "filename": "beige_book_20000614.html",
+    "size_bytes": 17734
+  },
+  {
+    "date": "2000-08-09",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2000/20000809/default.htm",
+    "filename": "beige_book_20000809.html",
+    "size_bytes": 18870
+  },
+  {
+    "date": "2000-09",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200009.htm",
+    "filename": "beige_book_200009.html",
+    "size_bytes": 43640
+  },
+  {
+    "date": "2000-09-20",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2000/20000920/default.htm",
+    "filename": "beige_book_20000920.html",
+    "size_bytes": 18649
+  },
+  {
+    "date": "2000-11-01",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2000/20001101/default.htm",
+    "filename": "beige_book_20001101.html",
+    "size_bytes": 18910
+  },
+  {
+    "date": "2000-12",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200012.htm",
+    "filename": "beige_book_200012.html",
+    "size_bytes": 43636
+  },
+  {
+    "date": "2000-12-06",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2000/20001206/default.htm",
+    "filename": "beige_book_20001206.html",
+    "size_bytes": 18967
+  },
+  {
+    "date": "2001-01",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200101.htm",
+    "filename": "beige_book_200101.html",
+    "size_bytes": 43636
+  },
+  {
+    "date": "2001-01-17",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2001/20010117/default.htm",
+    "filename": "beige_book_20010117.html",
+    "size_bytes": 20811
+  },
+  {
+    "date": "2001-03",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200103.htm",
+    "filename": "beige_book_200103.html",
+    "size_bytes": 43630
+  },
+  {
+    "date": "2001-03-07",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2001/20010307/default.htm",
+    "filename": "beige_book_20010307.html",
+    "size_bytes": 19263
+  },
+  {
+    "date": "2001-05-02",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2001/20010502/default.htm",
+    "filename": "beige_book_20010502.html",
+    "size_bytes": 20520
+  },
+  {
+    "date": "2001-06",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200106.htm",
+    "filename": "beige_book_200106.html",
+    "size_bytes": 43630
+  },
+  {
+    "date": "2001-06-13",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2001/20010613/default.htm",
+    "filename": "beige_book_20010613.html",
+    "size_bytes": 15751
+  },
+  {
+    "date": "2001-08-08",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2001/20010808/default.htm",
+    "filename": "beige_book_20010808.html",
+    "size_bytes": 17146
+  },
+  {
+    "date": "2001-09",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200109.htm",
+    "filename": "beige_book_200109.html",
+    "size_bytes": 43640
+  },
+  {
+    "date": "2001-09-19",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2001/20010919/default.htm",
+    "filename": "beige_book_20010919.html",
+    "size_bytes": 17057
+  },
+  {
+    "date": "2001-10",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200110.htm",
+    "filename": "beige_book_200110.html",
+    "size_bytes": 43636
+  },
+  {
+    "date": "2001-10-24",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2001/20011024/default.htm",
+    "filename": "beige_book_20011024.html",
+    "size_bytes": 18326
+  },
+  {
+    "date": "2001-11-28",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2001/20011128/default.htm",
+    "filename": "beige_book_20011128.html",
+    "size_bytes": 18981
+  },
+  {
+    "date": "2002-01",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200201.htm",
+    "filename": "beige_book_200201.html",
+    "size_bytes": 43636
+  },
+  {
+    "date": "2002-01-16",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2002/20020116/default.htm",
+    "filename": "beige_book_20020116.html",
+    "size_bytes": 20464
+  },
+  {
+    "date": "2002-03",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200203.htm",
+    "filename": "beige_book_200203.html",
+    "size_bytes": 43630
+  },
+  {
+    "date": "2002-03-06",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2002/20020306/default.htm",
+    "filename": "beige_book_20020306.html",
+    "size_bytes": 18958
+  },
+  {
+    "date": "2002-04",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200204.htm",
+    "filename": "beige_book_200204.html",
+    "size_bytes": 43632
+  },
+  {
+    "date": "2002-04-24",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2002/20020424/default.htm",
+    "filename": "beige_book_20020424.html",
+    "size_bytes": 21715
+  },
+  {
+    "date": "2002-06",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200206.htm",
+    "filename": "beige_book_200206.html",
+    "size_bytes": 43630
+  },
+  {
+    "date": "2002-06-12",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2002/20020612/default.htm",
+    "filename": "beige_book_20020612.html",
+    "size_bytes": 16683
+  },
+  {
+    "date": "2002-07",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200207.htm",
+    "filename": "beige_book_200207.html",
+    "size_bytes": 43630
+  },
+  {
+    "date": "2002-07-31",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2002/20020731/default.htm",
+    "filename": "beige_book_20020731.html",
+    "size_bytes": 20032
+  },
+  {
+    "date": "2002-09-11",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2002/20020911/default.htm",
+    "filename": "beige_book_20020911.html",
+    "size_bytes": 20958
+  },
+  {
+    "date": "2002-10",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200210.htm",
+    "filename": "beige_book_200210.html",
+    "size_bytes": 43636
+  },
+  {
+    "date": "2002-10-23",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2002/20021023/default.htm",
+    "filename": "beige_book_20021023.html",
+    "size_bytes": 14861
+  },
+  {
+    "date": "2002-11-27",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2002/20021127/default.htm",
+    "filename": "beige_book_20021127.html",
+    "size_bytes": 21235
+  },
+  {
+    "date": "2003-01",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200301.htm",
+    "filename": "beige_book_200301.html",
+    "size_bytes": 43636
+  },
+  {
+    "date": "2003-01-15",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2003/20030115/default.htm",
+    "filename": "beige_book_20030115.html",
+    "size_bytes": 20908
+  },
+  {
+    "date": "2003-03",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200303.htm",
+    "filename": "beige_book_200303.html",
+    "size_bytes": 43630
+  },
+  {
+    "date": "2003-03-05",
+    "url": "http://www.federalreserve.gov/fomc/beigebook/2003/20030305/default.htm",
+    "filename": "beige_book_20030305.html",
+    "size_bytes": 20823
+  },
+  {
+    "date": "2003-04",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200304.htm",
+    "filename": "beige_book_200304.html",
+    "size_bytes": 43632
+  },
+  {
+    "date": "2003-04-23",
+    "url": "http://www.federalreserve.gov/fomc/beigebook/2003/20030423/default.htm",
+    "filename": "beige_book_20030423.html",
+    "size_bytes": 15147
+  },
+  {
+    "date": "2003-06",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200306.htm",
+    "filename": "beige_book_200306.html",
+    "size_bytes": 43630
+  },
+  {
+    "date": "2003-06-11",
+    "url": "http://www.federalreserve.gov/fomc/beigebook/2003/20030611/default.htm",
+    "filename": "beige_book_20030611.html",
+    "size_bytes": 22105
+  },
+  {
+    "date": "2003-07",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200307.htm",
+    "filename": "beige_book_200307.html",
+    "size_bytes": 43630
+  },
+  {
+    "date": "2003-07-30",
+    "url": "http://www.federalreserve.gov/fomc/beigebook/2003/20030730/default.htm",
+    "filename": "beige_book_20030730.html",
+    "size_bytes": 20967
+  },
+  {
+    "date": "2003-09",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200309.htm",
+    "filename": "beige_book_200309.html",
+    "size_bytes": 7247
+  },
+  {
+    "date": "2003-09-03",
+    "url": "http://www.federalreserve.gov/fomc/beigebook/2003/20030903/default.htm",
+    "filename": "beige_book_20030903.html",
+    "size_bytes": 21673
+  },
+  {
+    "date": "2003-10",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200310.htm",
+    "filename": "beige_book_200310.html",
+    "size_bytes": 43636
+  },
+  {
+    "date": "2003-10-15",
+    "url": "http://www.federalreserve.gov/fomc/beigebook/2003/20031015/default.htm",
+    "filename": "beige_book_20031015.html",
+    "size_bytes": 21486
+  },
+  {
+    "date": "2003-11-26",
+    "url": "http://www.federalreserve.gov/fomc/beigebook/2003/20031126/default.htm",
+    "filename": "beige_book_20031126.html",
+    "size_bytes": 21375
+  },
+  {
+    "date": "2004-01",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200401.htm",
+    "filename": "beige_book_200401.html",
+    "size_bytes": 43636
+  },
+  {
+    "date": "2004-01-14",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2004/20040114/default.htm",
+    "filename": "beige_book_20040114.html",
+    "size_bytes": 25037
+  },
+  {
+    "date": "2004-03",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200403.htm",
+    "filename": "beige_book_200403.html",
+    "size_bytes": 43630
+  },
+  {
+    "date": "2004-03-03",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2004/20040303/default.htm",
+    "filename": "beige_book_20040303.html",
+    "size_bytes": 19292
+  },
+  {
+    "date": "2004-04",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200404.htm",
+    "filename": "beige_book_200404.html",
+    "size_bytes": 43632
+  },
+  {
+    "date": "2004-04-21",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2004/20040421/default.htm",
+    "filename": "beige_book_20040421.html",
+    "size_bytes": 17404
+  },
+  {
+    "date": "2004-06",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200406.htm",
+    "filename": "beige_book_200406.html",
+    "size_bytes": 43630
+  },
+  {
+    "date": "2004-06-16",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2004/20040616/default.htm",
+    "filename": "beige_book_20040616.html",
+    "size_bytes": 19993
+  },
+  {
+    "date": "2004-07",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200407.htm",
+    "filename": "beige_book_200407.html",
+    "size_bytes": 43630
+  },
+  {
+    "date": "2004-07-28",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2004/20040728/default.htm",
+    "filename": "beige_book_20040728.html",
+    "size_bytes": 19740
+  },
+  {
+    "date": "2004-09",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200409.htm",
+    "filename": "beige_book_200409.html",
+    "size_bytes": 43638
+  },
+  {
+    "date": "2004-09-08",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2004/20040908/default.htm",
+    "filename": "beige_book_20040908.html",
+    "size_bytes": 18394
+  },
+  {
+    "date": "2004-10",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200410.htm",
+    "filename": "beige_book_200410.html",
+    "size_bytes": 43636
+  },
+  {
+    "date": "2004-10-27",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2004/20041027/default.htm",
+    "filename": "beige_book_20041027.html",
+    "size_bytes": 18197
+  },
+  {
+    "date": "2004-12",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200412.htm",
+    "filename": "beige_book_200412.html",
+    "size_bytes": 43636
+  },
+  {
+    "date": "2004-12-01",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2004/20041201/default.htm",
+    "filename": "beige_book_20041201.html",
+    "size_bytes": 22989
+  },
+  {
+    "date": "2005-01",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200501.htm",
+    "filename": "beige_book_200501.html",
+    "size_bytes": 43636
+  },
+  {
+    "date": "2005-01-19",
+    "url": "http://www.federalreserve.gov/fomc/beigebook/2005/20050119/default.htm",
+    "filename": "beige_book_20050119.html",
+    "size_bytes": 22376
+  },
+  {
+    "date": "2005-03",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200503.htm",
+    "filename": "beige_book_200503.html",
+    "size_bytes": 43630
+  },
+  {
+    "date": "2005-03-09",
+    "url": "http://www.federalreserve.gov/fomc/beigebook/2005/20050309/default.htm",
+    "filename": "beige_book_20050309.html",
+    "size_bytes": 19896
+  },
+  {
+    "date": "2005-04",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200504.htm",
+    "filename": "beige_book_200504.html",
+    "size_bytes": 43632
+  },
+  {
+    "date": "2005-04-20",
+    "url": "http://www.federalreserve.gov/fomc/beigebook/2005/20050420/default.htm",
+    "filename": "beige_book_20050420.html",
+    "size_bytes": 20133
+  },
+  {
+    "date": "2005-06",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200506.htm",
+    "filename": "beige_book_200506.html",
+    "size_bytes": 43630
+  },
+  {
+    "date": "2005-06-15",
+    "url": "http://www.federalreserve.gov/fomc/beigebook/2005/20050615/default.htm",
+    "filename": "beige_book_20050615.html",
+    "size_bytes": 17012
+  },
+  {
+    "date": "2005-07",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200507.htm",
+    "filename": "beige_book_200507.html",
+    "size_bytes": 43630
+  },
+  {
+    "date": "2005-07-27",
+    "url": "http://www.federalreserve.gov/fomc/beigebook/2005/20050727/default.htm",
+    "filename": "beige_book_20050727.html",
+    "size_bytes": 22559
+  },
+  {
+    "date": "2005-09",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200509.htm",
+    "filename": "beige_book_200509.html",
+    "size_bytes": 43638
+  },
+  {
+    "date": "2005-09-07",
+    "url": "http://www.federalreserve.gov/fomc/beigebook/2005/20050907/default.htm",
+    "filename": "beige_book_20050907.html",
+    "size_bytes": 16248
+  },
+  {
+    "date": "2005-10",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200510.htm",
+    "filename": "beige_book_200510.html",
+    "size_bytes": 43636
+  },
+  {
+    "date": "2005-10-19",
+    "url": "http://www.federalreserve.gov/fomc/beigebook/2005/20051019/default.htm",
+    "filename": "beige_book_20051019.html",
+    "size_bytes": 20702
+  },
+  {
+    "date": "2005-11-30",
+    "url": "http://www.federalreserve.gov/fomc/beigebook/2005/20051130/default.htm",
+    "filename": "beige_book_20051130.html",
+    "size_bytes": 20431
+  },
+  {
+    "date": "2006-01",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200601.htm",
+    "filename": "beige_book_200601.html",
+    "size_bytes": 43636
+  },
+  {
+    "date": "2006-01-18",
+    "url": "http://www.federalreserve.gov/fomc/beigebook/2006/20060118/default.htm",
+    "filename": "beige_book_20060118.html",
+    "size_bytes": 19396
+  },
+  {
+    "date": "2006-03",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200603.htm",
+    "filename": "beige_book_200603.html",
+    "size_bytes": 43632
+  },
+  {
+    "date": "2006-03-15",
+    "url": "http://www.federalreserve.gov/fomc/beigebook/2006/20060315/default.htm",
+    "filename": "beige_book_20060315.html",
+    "size_bytes": 19876
+  },
+  {
+    "date": "2006-04",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200604.htm",
+    "filename": "beige_book_200604.html",
+    "size_bytes": 43632
+  },
+  {
+    "date": "2006-04-26",
+    "url": "http://www.federalreserve.gov/fomc/beigebook/2006/20060426/default.htm",
+    "filename": "beige_book_20060426.html",
+    "size_bytes": 21638
+  },
+  {
+    "date": "2006-06",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200606.htm",
+    "filename": "beige_book_200606.html",
+    "size_bytes": 43630
+  },
+  {
+    "date": "2006-06-14",
+    "url": "http://www.federalreserve.gov/fomc/beigebook/2006/20060614/default.htm",
+    "filename": "beige_book_20060614.html",
+    "size_bytes": 26485
+  },
+  {
+    "date": "2006-07",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200607.htm",
+    "filename": "beige_book_200607.html",
+    "size_bytes": 43630
+  },
+  {
+    "date": "2006-09",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200609.htm",
+    "filename": "beige_book_200609.html",
+    "size_bytes": 43638
+  },
+  {
+    "date": "2006-10",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200610.htm",
+    "filename": "beige_book_200610.html",
+    "size_bytes": 43636
+  },
+  {
+    "date": "2007-01",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200701.htm",
+    "filename": "beige_book_200701.html",
+    "size_bytes": 43636
+  },
+  {
+    "date": "2007-01-17",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2007/20070117/default.htm",
+    "filename": "beige_book_20070117.html",
+    "size_bytes": 18986
+  },
+  {
+    "date": "2007-03",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200703.htm",
+    "filename": "beige_book_200703.html",
+    "size_bytes": 43630
+  },
+  {
+    "date": "2007-03-07",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2007/20070307/default.htm",
+    "filename": "beige_book_20070307.html",
+    "size_bytes": 22600
+  },
+  {
+    "date": "2007-04",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200704.htm",
+    "filename": "beige_book_200704.html",
+    "size_bytes": 43632
+  },
+  {
+    "date": "2007-04-25",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2007/20070425/default.htm",
+    "filename": "beige_book_20070425.html",
+    "size_bytes": 22862
+  },
+  {
+    "date": "2007-06",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200706.htm",
+    "filename": "beige_book_200706.html",
+    "size_bytes": 43630
+  },
+  {
+    "date": "2007-06-13",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2007/20070613/default.htm",
+    "filename": "beige_book_20070613.html",
+    "size_bytes": 19955
+  },
+  {
+    "date": "2007-07",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200707.htm",
+    "filename": "beige_book_200707.html",
+    "size_bytes": 43630
+  },
+  {
+    "date": "2007-07-25",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2007/20070725/default.htm",
+    "filename": "beige_book_20070725.html",
+    "size_bytes": 22530
+  },
+  {
+    "date": "2007-09",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200709.htm",
+    "filename": "beige_book_200709.html",
+    "size_bytes": 43638
+  },
+  {
+    "date": "2007-09-05",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2007/20070905/default.htm",
+    "filename": "beige_book_20070905.html",
+    "size_bytes": 21805
+  },
+  {
+    "date": "2007-10",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200710.htm",
+    "filename": "beige_book_200710.html",
+    "size_bytes": 43636
+  },
+  {
+    "date": "2007-10-17",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2007/20071017/default.htm",
+    "filename": "beige_book_20071017.html",
+    "size_bytes": 16535
+  },
+  {
+    "date": "2007-11-28",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2007/20071128/default.htm",
+    "filename": "beige_book_20071128.html",
+    "size_bytes": 21899
+  },
+  {
+    "date": "2008-01",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200801.htm",
+    "filename": "beige_book_200801.html",
+    "size_bytes": 43636
+  },
+  {
+    "date": "2008-01-16",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2008/20080116/default.htm",
+    "filename": "beige_book_20080116.html",
+    "size_bytes": 18876
+  },
+  {
+    "date": "2008-03",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200803.htm",
+    "filename": "beige_book_200803.html",
+    "size_bytes": 43630
+  },
+  {
+    "date": "2008-03-05",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2008/20080305/fullreport20080305.pdf",
+    "filename": "beige_book_20080305.pdf",
+    "size_bytes": 286361
+  },
+  {
+    "date": "2008-04",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200804.htm",
+    "filename": "beige_book_200804.html",
+    "size_bytes": 43632
+  },
+  {
+    "date": "2008-04-16",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2008/20080416/fullreport20080416.pdf",
+    "filename": "beige_book_20080416.pdf",
+    "size_bytes": 181571
+  },
+  {
+    "date": "2008-06",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200806.htm",
+    "filename": "beige_book_200806.html",
+    "size_bytes": 43630
+  },
+  {
+    "date": "2008-06-11",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2008/20080611/fullreport20080611.pdf",
+    "filename": "beige_book_20080611.pdf",
+    "size_bytes": 143924
+  },
+  {
+    "date": "2008-07",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200807.htm",
+    "filename": "beige_book_200807.html",
+    "size_bytes": 43630
+  },
+  {
+    "date": "2008-07-23",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2008/20080723/fullreport20080723.pdf",
+    "filename": "beige_book_20080723.pdf",
+    "size_bytes": 267363
+  },
+  {
+    "date": "2008-09",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200809.htm",
+    "filename": "beige_book_200809.html",
+    "size_bytes": 43638
+  },
+  {
+    "date": "2008-09-03",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2008/20080903/fullreport20080903.pdf",
+    "filename": "beige_book_20080903.pdf",
+    "size_bytes": 163565
+  },
+  {
+    "date": "2008-10",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200810.htm",
+    "filename": "beige_book_200810.html",
+    "size_bytes": 43636
+  },
+  {
+    "date": "2008-10-15",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2008/20081015/fullreport20081015.pdf",
+    "filename": "beige_book_20081015.pdf",
+    "size_bytes": 121480
+  },
+  {
+    "date": "2008-12",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200812.htm",
+    "filename": "beige_book_200812.html",
+    "size_bytes": 43636
+  },
+  {
+    "date": "2008-12-03",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2008/20081203/fullreport20081203.pdf",
+    "filename": "beige_book_20081203.pdf",
+    "size_bytes": 150397
+  },
+  {
+    "date": "2009-01",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200901.htm",
+    "filename": "beige_book_200901.html",
+    "size_bytes": 43636
+  },
+  {
+    "date": "2009-01-14",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2009/20090114/fullreport20090114.pdf",
+    "filename": "beige_book_20090114.pdf",
+    "size_bytes": 182837
+  },
+  {
+    "date": "2009-03",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200903.htm",
+    "filename": "beige_book_200903.html",
+    "size_bytes": 43630
+  },
+  {
+    "date": "2009-03-04",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2009/20090304/fullreport20090304.pdf",
+    "filename": "beige_book_20090304.pdf",
+    "size_bytes": 186843
+  },
+  {
+    "date": "2009-04",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200904.htm",
+    "filename": "beige_book_200904.html",
+    "size_bytes": 43632
+  },
+  {
+    "date": "2009-04-15",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2009/20090415/fullreport20090415.pdf",
+    "filename": "beige_book_20090415.pdf",
+    "size_bytes": 252900
+  },
+  {
+    "date": "2009-06",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200906.htm",
+    "filename": "beige_book_200906.html",
+    "size_bytes": 43630
+  },
+  {
+    "date": "2009-06-10",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2009/20090610/fullreport20090610.pdf",
+    "filename": "beige_book_20090610.pdf",
+    "size_bytes": 236207
+  },
+  {
+    "date": "2009-07",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200907.htm",
+    "filename": "beige_book_200907.html",
+    "size_bytes": 43630
+  },
+  {
+    "date": "2009-07-29",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2009/20090729/fullreport20090729.pdf",
+    "filename": "beige_book_20090729.pdf",
+    "size_bytes": 275538
+  },
+  {
+    "date": "2009-09",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200909.htm",
+    "filename": "beige_book_200909.html",
+    "size_bytes": 43638
+  },
+  {
+    "date": "2009-09-09",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2009/20090909/fullreport20090909.pdf",
+    "filename": "beige_book_20090909.pdf",
+    "size_bytes": 165770
+  },
+  {
+    "date": "2009-10",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200910.htm",
+    "filename": "beige_book_200910.html",
+    "size_bytes": 43636
+  },
+  {
+    "date": "2009-10-21",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2009/20091021/fullreport20091021.pdf",
+    "filename": "beige_book_20091021.pdf",
+    "size_bytes": 288579
+  },
+  {
+    "date": "2009-12",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook200912.htm",
+    "filename": "beige_book_200912.html",
+    "size_bytes": 43636
+  },
+  {
+    "date": "2009-12-02",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2009/20091202/fullreport20091202.pdf",
+    "filename": "beige_book_20091202.pdf",
+    "size_bytes": 335466
+  },
+  {
+    "date": "2010-01",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201001.htm",
+    "filename": "beige_book_201001.html",
+    "size_bytes": 43636
+  },
+  {
+    "date": "2010-01-13",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2010/20100113/fullreport20100113.pdf",
+    "filename": "beige_book_20100113.pdf",
+    "size_bytes": 272801
+  },
+  {
+    "date": "2010-03",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201003.htm",
+    "filename": "beige_book_201003.html",
+    "size_bytes": 43630
+  },
+  {
+    "date": "2010-03-03",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2010/20100303/fullreport20100303.pdf",
+    "filename": "beige_book_20100303.pdf",
+    "size_bytes": 924970
+  },
+  {
+    "date": "2010-04",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201004.htm",
+    "filename": "beige_book_201004.html",
+    "size_bytes": 43632
+  },
+  {
+    "date": "2010-04-14",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2010/20100414/fullreport20100414.pdf",
+    "filename": "beige_book_20100414.pdf",
+    "size_bytes": 683091
+  },
+  {
+    "date": "2010-06",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201006.htm",
+    "filename": "beige_book_201006.html",
+    "size_bytes": 43628
+  },
+  {
+    "date": "2010-06-09",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2010/20100609/fullreport20100609.pdf",
+    "filename": "beige_book_20100609.pdf",
+    "size_bytes": 224686
+  },
+  {
+    "date": "2010-07",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201007.htm",
+    "filename": "beige_book_201007.html",
+    "size_bytes": 43630
+  },
+  {
+    "date": "2010-07-28",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2010/20100728/fullreport20100728.pdf",
+    "filename": "beige_book_20100728.pdf",
+    "size_bytes": 297035
+  },
+  {
+    "date": "2010-09",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201009.htm",
+    "filename": "beige_book_201009.html",
+    "size_bytes": 43638
+  },
+  {
+    "date": "2010-09-08",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2010/20100908/fullreport20100908.pdf",
+    "filename": "beige_book_20100908.pdf",
+    "size_bytes": 134746
+  },
+  {
+    "date": "2010-10",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201010.htm",
+    "filename": "beige_book_201010.html",
+    "size_bytes": 43636
+  },
+  {
+    "date": "2010-10-20",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2010/20101020/fullreport20101020.pdf",
+    "filename": "beige_book_20101020.pdf",
+    "size_bytes": 187349
+  },
+  {
+    "date": "2010-12",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201012.htm",
+    "filename": "beige_book_201012.html",
+    "size_bytes": 43636
+  },
+  {
+    "date": "2010-12-01",
+    "url": "https://www.federalreserve.gov/fomc/beigebook/2010/20101201/fullreport20101201.pdf",
+    "filename": "beige_book_20101201.pdf",
+    "size_bytes": 355050
+  },
+  {
+    "date": "2011-01",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201101.htm",
+    "filename": "beige_book_201101.html",
+    "size_bytes": 160738
+  },
+  {
+    "date": "2011-01-12",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/fullreport20110112.pdf",
+    "filename": "beige_book_20110112.pdf",
+    "size_bytes": 282213
+  },
+  {
+    "date": "2011-03-02",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/fullreport20110302.pdf",
+    "filename": "beige_book_20110302.pdf",
+    "size_bytes": 821257
+  },
+  {
+    "date": "2011-04",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201104.htm",
+    "filename": "beige_book_201104.html",
+    "size_bytes": 165232
+  },
+  {
+    "date": "2011-04-13",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/fullreport20110413.pdf",
+    "filename": "beige_book_20110413.pdf",
+    "size_bytes": 411222
+  },
+  {
+    "date": "2011-06",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201106.htm",
+    "filename": "beige_book_201106.html",
+    "size_bytes": 167351
+  },
+  {
+    "date": "2011-06-08",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/fullreport20110608.pdf",
+    "filename": "beige_book_20110608.pdf",
+    "size_bytes": 156913
+  },
+  {
+    "date": "2011-07",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201107.htm",
+    "filename": "beige_book_201107.html",
+    "size_bytes": 163379
+  },
+  {
+    "date": "2011-07-27",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/fullreport20110727.pdf",
+    "filename": "beige_book_20110727.pdf",
+    "size_bytes": 161111
+  },
+  {
+    "date": "2011-09",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201109.htm",
+    "filename": "beige_book_201109.html",
+    "size_bytes": 166883
+  },
+  {
+    "date": "2011-09-07",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/fullreport20110907.pdf",
+    "filename": "beige_book_20110907.pdf",
+    "size_bytes": 695282
+  },
+  {
+    "date": "2011-10",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201110.htm",
+    "filename": "beige_book_201110.html",
+    "size_bytes": 161041
+  },
+  {
+    "date": "2011-10-19",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/fullreport20111019.pdf",
+    "filename": "beige_book_20111019.pdf",
+    "size_bytes": 148481
+  },
+  {
+    "date": "2011-11",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201111.htm",
+    "filename": "beige_book_201111.html",
+    "size_bytes": 158916
+  },
+  {
+    "date": "2011-11-30",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/fullreport20111130.pdf",
+    "filename": "beige_book_20111130.pdf",
+    "size_bytes": 306689
+  },
+  {
+    "date": "2012-01",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201201.htm",
+    "filename": "beige_book_201201.html",
+    "size_bytes": 161356
+  },
+  {
+    "date": "2012-01-11",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/fullreport20120111.pdf",
+    "filename": "beige_book_20120111.pdf",
+    "size_bytes": 145955
+  },
+  {
+    "date": "2012-02",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201202.htm",
+    "filename": "beige_book_201202.html",
+    "size_bytes": 163368
+  },
+  {
+    "date": "2012-02-29",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/fullreport20120229.pdf",
+    "filename": "beige_book_20120229.pdf",
+    "size_bytes": 253182
+  },
+  {
+    "date": "2012-04",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201204.htm",
+    "filename": "beige_book_201204.html",
+    "size_bytes": 160394
+  },
+  {
+    "date": "2012-04-11",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/fullreport20120411.pdf",
+    "filename": "beige_book_20120411.pdf",
+    "size_bytes": 392458
+  },
+  {
+    "date": "2012-06",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201206.htm",
+    "filename": "beige_book_201206.html",
+    "size_bytes": 163927
+  },
+  {
+    "date": "2012-06-06",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/Beigebook_20120606.pdf",
+    "filename": "beige_book_20120606.pdf",
+    "size_bytes": 182104
+  },
+  {
+    "date": "2012-07",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201207.htm",
+    "filename": "beige_book_201207.html",
+    "size_bytes": 159527
+  },
+  {
+    "date": "2012-07-18",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/Beigebook_20120718.pdf",
+    "filename": "beige_book_20120718.pdf",
+    "size_bytes": 394744
+  },
+  {
+    "date": "2012-08",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201208.htm",
+    "filename": "beige_book_201208.html",
+    "size_bytes": 165299
+  },
+  {
+    "date": "2012-08-29",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/Beigebook_20120829.pdf",
+    "filename": "beige_book_20120829.pdf",
+    "size_bytes": 288894
+  },
+  {
+    "date": "2012-10",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201210.htm",
+    "filename": "beige_book_201210.html",
+    "size_bytes": 160295
+  },
+  {
+    "date": "2012-10-10",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/Beigebook_20121010.pdf",
+    "filename": "beige_book_20121010.pdf",
+    "size_bytes": 302075
+  },
+  {
+    "date": "2012-11",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201211.htm",
+    "filename": "beige_book_201211.html",
+    "size_bytes": 177262
+  },
+  {
+    "date": "2012-11-28",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/Beigebook_20121128.pdf",
+    "filename": "beige_book_20121128.pdf",
+    "size_bytes": 228623
+  },
+  {
+    "date": "2013-01",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201301.htm",
+    "filename": "beige_book_201301.html",
+    "size_bytes": 164746
+  },
+  {
+    "date": "2013-01-16",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/Beigebook_20130116.pdf",
+    "filename": "beige_book_20130116.pdf",
+    "size_bytes": 408930
+  },
+  {
+    "date": "2013-03",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201303.htm",
+    "filename": "beige_book_201303.html",
+    "size_bytes": 169420
+  },
+  {
+    "date": "2013-03-06",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/Beigebook_20130306.pdf",
+    "filename": "beige_book_20130306.pdf",
+    "size_bytes": 274243
+  },
+  {
+    "date": "2013-04",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201304.htm",
+    "filename": "beige_book_201304.html",
+    "size_bytes": 167624
+  },
+  {
+    "date": "2013-04-17",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/Beigebook_20130417.pdf",
+    "filename": "beige_book_20130417.pdf",
+    "size_bytes": 188162
+  },
+  {
+    "date": "2013-06",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201306.htm",
+    "filename": "beige_book_201306.html",
+    "size_bytes": 167799
+  },
+  {
+    "date": "2013-06-05",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/Beigebook_20130605.pdf",
+    "filename": "beige_book_20130605.pdf",
+    "size_bytes": 399322
+  },
+  {
+    "date": "2013-07",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201307.htm",
+    "filename": "beige_book_201307.html",
+    "size_bytes": 156183
+  },
+  {
+    "date": "2013-07-17",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/Beigebook_20130717.pdf",
+    "filename": "beige_book_20130717.pdf",
+    "size_bytes": 150176
+  },
+  {
+    "date": "2013-09",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201309.htm",
+    "filename": "beige_book_201309.html",
+    "size_bytes": 162558
+  },
+  {
+    "date": "2013-09-04",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/Beigebook_20130904.pdf",
+    "filename": "beige_book_20130904.pdf",
+    "size_bytes": 157200
+  },
+  {
+    "date": "2013-10",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201310.htm",
+    "filename": "beige_book_201310.html",
+    "size_bytes": 165634
+  },
+  {
+    "date": "2013-10-16",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/BeigeBook_20131016.pdf",
+    "filename": "beige_book_20131016.pdf",
+    "size_bytes": 153612
+  },
+  {
+    "date": "2013-12",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201312.htm",
+    "filename": "beige_book_201312.html",
+    "size_bytes": 167730
+  },
+  {
+    "date": "2013-12-04",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/Beigebook_20131204.pdf",
+    "filename": "beige_book_20131204.pdf",
+    "size_bytes": 161694
+  },
+  {
+    "date": "2014-01",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201401.htm",
+    "filename": "beige_book_201401.html",
+    "size_bytes": 170274
+  },
+  {
+    "date": "2014-01-15",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/Beigebook_20140115.pdf",
+    "filename": "beige_book_20140115.pdf",
+    "size_bytes": 316008
+  },
+  {
+    "date": "2014-03",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201403.htm",
+    "filename": "beige_book_201403.html",
+    "size_bytes": 168568
+  },
+  {
+    "date": "2014-03-05",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/Beigebook_20140305.pdf",
+    "filename": "beige_book_20140305.pdf",
+    "size_bytes": 241629
+  },
+  {
+    "date": "2014-04",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201404.htm",
+    "filename": "beige_book_201404.html",
+    "size_bytes": 169824
+  },
+  {
+    "date": "2014-04-16",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/BeigeBook_20140416.pdf",
+    "filename": "beige_book_20140416.pdf",
+    "size_bytes": 572645
+  },
+  {
+    "date": "2014-06",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201406.htm",
+    "filename": "beige_book_201406.html",
+    "size_bytes": 168141
+  },
+  {
+    "date": "2014-06-04",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/BeigeBook_20140604.pdf",
+    "filename": "beige_book_20140604.pdf",
+    "size_bytes": 270331
+  },
+  {
+    "date": "2014-07",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201407.htm",
+    "filename": "beige_book_201407.html",
+    "size_bytes": 169518
+  },
+  {
+    "date": "2014-07-16",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/Beigebook_20140716.pdf",
+    "filename": "beige_book_20140716.pdf",
+    "size_bytes": 405186
+  },
+  {
+    "date": "2014-09",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201409.htm",
+    "filename": "beige_book_201409.html",
+    "size_bytes": 172327
+  },
+  {
+    "date": "2014-09-03",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/BeigeBook_20140903.pdf",
+    "filename": "beige_book_20140903.pdf",
+    "size_bytes": 495368
+  },
+  {
+    "date": "2014-10",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201410.htm",
+    "filename": "beige_book_201410.html",
+    "size_bytes": 169810
+  },
+  {
+    "date": "2014-10-15",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/BeigeBook_20141015.pdf",
+    "filename": "beige_book_20141015.pdf",
+    "size_bytes": 1887794
+  },
+  {
+    "date": "2014-12",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201412.htm",
+    "filename": "beige_book_201412.html",
+    "size_bytes": 165758
+  },
+  {
+    "date": "2014-12-03",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/BeigeBook_20141203.pdf",
+    "filename": "beige_book_20141203.pdf",
+    "size_bytes": 210013
+  },
+  {
+    "date": "2015-01",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201501.htm",
+    "filename": "beige_book_201501.html",
+    "size_bytes": 164724
+  },
+  {
+    "date": "2015-01-14",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/BeigeBook_20150114.pdf",
+    "filename": "beige_book_20150114.pdf",
+    "size_bytes": 274627
+  },
+  {
+    "date": "2015-03-04",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/BeigeBook_20150304.pdf",
+    "filename": "beige_book_20150304.pdf",
+    "size_bytes": 589039
+  },
+  {
+    "date": "2015-04",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201504.htm",
+    "filename": "beige_book_201504.html",
+    "size_bytes": 168170
+  },
+  {
+    "date": "2015-04-15",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/BeigeBook_20150415.pdf",
+    "filename": "beige_book_20150415.pdf",
+    "size_bytes": 190976
+  },
+  {
+    "date": "2015-06",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201506.htm",
+    "filename": "beige_book_201506.html",
+    "size_bytes": 175336
+  },
+  {
+    "date": "2015-06-03",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/BeigeBook_20150603.pdf",
+    "filename": "beige_book_20150603.pdf",
+    "size_bytes": 464445
+  },
+  {
+    "date": "2015-07",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201507.htm",
+    "filename": "beige_book_201507.html",
+    "size_bytes": 163139
+  },
+  {
+    "date": "2015-07-15",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/BeigeBook_20150715.pdf",
+    "filename": "beige_book_20150715.pdf",
+    "size_bytes": 375409
+  },
+  {
+    "date": "2015-09",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201509.htm",
+    "filename": "beige_book_201509.html",
+    "size_bytes": 168396
+  },
+  {
+    "date": "2015-09-02",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/BeigeBook_20150902.pdf",
+    "filename": "beige_book_20150902.pdf",
+    "size_bytes": 439017
+  },
+  {
+    "date": "2015-10",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201510.htm",
+    "filename": "beige_book_201510.html",
+    "size_bytes": 160169
+  },
+  {
+    "date": "2015-10-14",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/Beigebook_20151014.pdf",
+    "filename": "beige_book_20151014.pdf",
+    "size_bytes": 299676
+  },
+  {
+    "date": "2015-12",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201512.htm",
+    "filename": "beige_book_201512.html",
+    "size_bytes": 177532
+  },
+  {
+    "date": "2015-12-02",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/Beigebook_20151202.pdf",
+    "filename": "beige_book_20151202.pdf",
+    "size_bytes": 389340
+  },
+  {
+    "date": "2016-01",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201601.htm",
+    "filename": "beige_book_201601.html",
+    "size_bytes": 162238
+  },
+  {
+    "date": "2016-01-13",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/Beigebook_20160113.pdf",
+    "filename": "beige_book_20160113.pdf",
+    "size_bytes": 340531
+  },
+  {
+    "date": "2016-03",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201603.htm",
+    "filename": "beige_book_201603.html",
+    "size_bytes": 169680
+  },
+  {
+    "date": "2016-03-02",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/Beigebook_20160302.pdf",
+    "filename": "beige_book_20160302.pdf",
+    "size_bytes": 399537
+  },
+  {
+    "date": "2016-04",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201604.htm",
+    "filename": "beige_book_201604.html",
+    "size_bytes": 162406
+  },
+  {
+    "date": "2016-04-13",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/Beigebook_20160413.pdf",
+    "filename": "beige_book_20160413.pdf",
+    "size_bytes": 469611
+  },
+  {
+    "date": "2016-06",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201606.htm",
+    "filename": "beige_book_201606.html",
+    "size_bytes": 160083
+  },
+  {
+    "date": "2016-06-01",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/Beigebook_20160601.pdf",
+    "filename": "beige_book_20160601.pdf",
+    "size_bytes": 560985
+  },
+  {
+    "date": "2016-07",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201607.htm",
+    "filename": "beige_book_201607.html",
+    "size_bytes": 155387
+  },
+  {
+    "date": "2016-07-13",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/Beigebook_20160713.pdf",
+    "filename": "beige_book_20160713.pdf",
+    "size_bytes": 985496
+  },
+  {
+    "date": "2016-09",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201609.htm",
+    "filename": "beige_book_201609.html",
+    "size_bytes": 159219
+  },
+  {
+    "date": "2016-09-07",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/Beigebook_20160907.pdf",
+    "filename": "beige_book_20160907.pdf",
+    "size_bytes": 400047
+  },
+  {
+    "date": "2016-10",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201610.htm",
+    "filename": "beige_book_201610.html",
+    "size_bytes": 154418
+  },
+  {
+    "date": "2016-10-19",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/Beigebook_20161019.pdf",
+    "filename": "beige_book_20161019.pdf",
+    "size_bytes": 199328
+  },
+  {
+    "date": "2016-11",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/beigebook201611.htm",
+    "filename": "beige_book_201611.html",
+    "size_bytes": 157353
+  },
+  {
+    "date": "2016-11-30",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/Beigebook_20161130.pdf",
+    "filename": "beige_book_20161130.pdf",
+    "size_bytes": 353218
+  },
+  {
+    "date": "2017-01",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook201701.htm",
+    "filename": "beige_book_201701.html",
+    "size_bytes": 184892
+  },
+  {
+    "date": "2017-01-18",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook/files/Beigebook_20170118.pdf",
+    "filename": "beige_book_20170118.pdf",
+    "size_bytes": 3006946
+  },
+  {
+    "date": "2017-03",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook201703.htm",
+    "filename": "beige_book_201703.html",
+    "size_bytes": 186516
+  },
+  {
+    "date": "2017-03-01",
+    "url": "https://www.federalreserve.gov/monetarypolicy/files/Beigebook_20170301.pdf",
+    "filename": "beige_book_20170301.pdf",
+    "size_bytes": 3427444
+  },
+  {
+    "date": "2017-04",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook201704.htm",
+    "filename": "beige_book_201704.html",
+    "size_bytes": 187664
+  },
+  {
+    "date": "2017-04-19",
+    "url": "https://www.federalreserve.gov/monetarypolicy/files/Beigebook_20170419.pdf",
+    "filename": "beige_book_20170419.pdf",
+    "size_bytes": 3880956
+  },
+  {
+    "date": "2017-05",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook201705.htm",
+    "filename": "beige_book_201705.html",
+    "size_bytes": 186812
+  },
+  {
+    "date": "2017-05-31",
+    "url": "https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20170531.pdf",
+    "filename": "beige_book_20170531.pdf",
+    "size_bytes": 3606032
+  },
+  {
+    "date": "2017-07",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook201707.htm",
+    "filename": "beige_book_201707.html",
+    "size_bytes": 186654
+  },
+  {
+    "date": "2017-07-12",
+    "url": "https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20170712.pdf",
+    "filename": "beige_book_20170712.pdf",
+    "size_bytes": 3225801
+  },
+  {
+    "date": "2017-09",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook201709.htm",
+    "filename": "beige_book_201709.html",
+    "size_bytes": 188091
+  },
+  {
+    "date": "2017-09-06",
+    "url": "https://www.federalreserve.gov/monetarypolicy/files/Beigebook_20170906.pdf",
+    "filename": "beige_book_20170906.pdf",
+    "size_bytes": 3388492
+  },
+  {
+    "date": "2017-10",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook201710.htm",
+    "filename": "beige_book_201710.html",
+    "size_bytes": 186812
+  },
+  {
+    "date": "2017-10-18",
+    "url": "https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20171018.pdf",
+    "filename": "beige_book_20171018.pdf",
+    "size_bytes": 3516028
+  },
+  {
+    "date": "2017-11",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook201711.htm",
+    "filename": "beige_book_201711.html",
+    "size_bytes": 187849
+  },
+  {
+    "date": "2017-11-29",
+    "url": "https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20171129.pdf",
+    "filename": "beige_book_20171129.pdf",
+    "size_bytes": 4108564
+  },
+  {
+    "date": "2018-01",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook201801.htm",
+    "filename": "beige_book_201801.html",
+    "size_bytes": 186859
+  },
+  {
+    "date": "2018-01-17",
+    "url": "https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20180117.pdf",
+    "filename": "beige_book_20180117.pdf",
+    "size_bytes": 4183926
+  },
+  {
+    "date": "2018-03",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook201803.htm",
+    "filename": "beige_book_201803.html",
+    "size_bytes": 187280
+  },
+  {
+    "date": "2018-03-07",
+    "url": "https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20180307.pdf",
+    "filename": "beige_book_20180307.pdf",
+    "size_bytes": 3734608
+  },
+  {
+    "date": "2018-04",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook201804.htm",
+    "filename": "beige_book_201804.html",
+    "size_bytes": 185883
+  },
+  {
+    "date": "2018-04-18",
+    "url": "https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20180418.pdf",
+    "filename": "beige_book_20180418.pdf",
+    "size_bytes": 3636380
+  },
+  {
+    "date": "2018-05",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook201805.htm",
+    "filename": "beige_book_201805.html",
+    "size_bytes": 189081
+  },
+  {
+    "date": "2018-05-30",
+    "url": "https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20180530.pdf",
+    "filename": "beige_book_20180530.pdf",
+    "size_bytes": 3895239
+  },
+  {
+    "date": "2018-07",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook201807.htm",
+    "filename": "beige_book_201807.html",
+    "size_bytes": 187557
+  },
+  {
+    "date": "2018-07-18",
+    "url": "https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20180718.pdf",
+    "filename": "beige_book_20180718.pdf",
+    "size_bytes": 4437213
+  },
+  {
+    "date": "2018-09",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook201809.htm",
+    "filename": "beige_book_201809.html",
+    "size_bytes": 190931
+  },
+  {
+    "date": "2018-09-12",
+    "url": "https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20180912.pdf",
+    "filename": "beige_book_20180912.pdf",
+    "size_bytes": 4009981
+  },
+  {
+    "date": "2018-10",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook201810.htm",
+    "filename": "beige_book_201810.html",
+    "size_bytes": 190703
+  },
+  {
+    "date": "2018-10-24",
+    "url": "https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20181024.pdf",
+    "filename": "beige_book_20181024.pdf",
+    "size_bytes": 3988444
+  },
+  {
+    "date": "2018-12",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook201812.htm",
+    "filename": "beige_book_201812.html",
+    "size_bytes": 191492
+  },
+  {
+    "date": "2018-12-05",
+    "url": "https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20181205.pdf",
+    "filename": "beige_book_20181205.pdf",
+    "size_bytes": 3676822
+  },
+  {
+    "date": "2019-01",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook201901.htm",
+    "filename": "beige_book_201901.html",
+    "size_bytes": 186838
+  },
+  {
+    "date": "2019-01-16",
+    "url": "https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20190116.pdf",
+    "filename": "beige_book_20190116.pdf",
+    "size_bytes": 1154323
+  },
+  {
+    "date": "2019-03",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook201903.htm",
+    "filename": "beige_book_201903.html",
+    "size_bytes": 189698
+  },
+  {
+    "date": "2019-03-06",
+    "url": "https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20190306.pdf",
+    "filename": "beige_book_20190306.pdf",
+    "size_bytes": 3918815
+  },
+  {
+    "date": "2019-04",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook201904.htm",
+    "filename": "beige_book_201904.html",
+    "size_bytes": 189744
+  },
+  {
+    "date": "2019-04-17",
+    "url": "https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20190417.pdf",
+    "filename": "beige_book_20190417.pdf",
+    "size_bytes": 3807039
+  },
+  {
+    "date": "2019-06",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook201906.htm",
+    "filename": "beige_book_201906.html",
+    "size_bytes": 190471
+  },
+  {
+    "date": "2019-06-05",
+    "url": "https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20190605.pdf",
+    "filename": "beige_book_20190605.pdf",
+    "size_bytes": 4215284
+  },
+  {
+    "date": "2019-07",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook201907.htm",
+    "filename": "beige_book_201907.html",
+    "size_bytes": 187575
+  },
+  {
+    "date": "2019-07-17",
+    "url": "https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20190717.pdf",
+    "filename": "beige_book_20190717.pdf",
+    "size_bytes": 1083105
+  },
+  {
+    "date": "2019-09",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook201909.htm",
+    "filename": "beige_book_201909.html",
+    "size_bytes": 190871
+  },
+  {
+    "date": "2019-09-04",
+    "url": "https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20190904.pdf",
+    "filename": "beige_book_20190904.pdf",
+    "size_bytes": 3542786
+  },
+  {
+    "date": "2019-10",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook201910.htm",
+    "filename": "beige_book_201910.html",
+    "size_bytes": 191636
+  },
+  {
+    "date": "2019-10-16",
+    "url": "https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20191016.pdf",
+    "filename": "beige_book_20191016.pdf",
+    "size_bytes": 1451134
+  },
+  {
+    "date": "2019-11",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook201911.htm",
+    "filename": "beige_book_201911.html",
+    "size_bytes": 192034
+  },
+  {
+    "date": "2019-11-27",
+    "url": "https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20191127.pdf",
+    "filename": "beige_book_20191127.pdf",
+    "size_bytes": 3005070
+  },
+  {
+    "date": "2020-01",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook202001.htm",
+    "filename": "beige_book_202001.html",
+    "size_bytes": 190326
+  },
+  {
+    "date": "2020-01-15",
+    "url": "https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20200115.pdf",
+    "filename": "beige_book_20200115.pdf",
+    "size_bytes": 4239708
+  },
+  {
+    "date": "2020-03",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook202003.htm",
+    "filename": "beige_book_202003.html",
+    "size_bytes": 193213
+  },
+  {
+    "date": "2020-03-04",
+    "url": "https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20200304.pdf",
+    "filename": "beige_book_20200304.pdf",
+    "size_bytes": 4337816
+  },
+  {
+    "date": "2020-04",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook202004.htm",
+    "filename": "beige_book_202004.html",
+    "size_bytes": 198748
+  },
+  {
+    "date": "2020-04-15",
+    "url": "https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20200415.pdf",
+    "filename": "beige_book_20200415.pdf",
+    "size_bytes": 5354150
+  },
+  {
+    "date": "2020-05",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook202005.htm",
+    "filename": "beige_book_202005.html",
+    "size_bytes": 199587
+  },
+  {
+    "date": "2020-05-27",
+    "url": "https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20200527.pdf",
+    "filename": "beige_book_20200527.pdf",
+    "size_bytes": 3991076
+  },
+  {
+    "date": "2020-07",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook202007.htm",
+    "filename": "beige_book_202007.html",
+    "size_bytes": 198152
+  },
+  {
+    "date": "2020-07-15",
+    "url": "https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20200715.pdf",
+    "filename": "beige_book_20200715.pdf",
+    "size_bytes": 1524765
+  },
+  {
+    "date": "2020-09",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook202009.htm",
+    "filename": "beige_book_202009.html",
+    "size_bytes": 197949
+  },
+  {
+    "date": "2020-09-02",
+    "url": "https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20200902.pdf",
+    "filename": "beige_book_20200902.pdf",
+    "size_bytes": 3171033
+  },
+  {
+    "date": "2020-10",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook202010.htm",
+    "filename": "beige_book_202010.html",
+    "size_bytes": 198138
+  },
+  {
+    "date": "2020-10-21",
+    "url": "https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20201021.pdf",
+    "filename": "beige_book_20201021.pdf",
+    "size_bytes": 3368731
+  },
+  {
+    "date": "2020-12",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook202012.htm",
+    "filename": "beige_book_202012.html",
+    "size_bytes": 196642
+  },
+  {
+    "date": "2020-12-02",
+    "url": "https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20201202.pdf",
+    "filename": "beige_book_20201202.pdf",
+    "size_bytes": 1537815
+  }
+]
