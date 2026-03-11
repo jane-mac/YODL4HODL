@@ -31,12 +31,22 @@ def convert_folder(folder: Path) -> None:
     output_folder.mkdir(exist_ok=True)
     print(f"Output folder: {output_folder}")
 
+    failed = []
     for pdf in pdfs:
         out = output_folder / (pdf.stem + ".txt")
-        print(f"  {pdf.name} -> {out.name}")
-        pdf_to_text(pdf, out)
+        print(f"  {pdf.name} -> {out.name}", end="", flush=True)
+        try:
+            pdf_to_text(pdf, out)
+            print(" OK")
+        except Exception as e:
+            print(f" FAILED: {e}")
+            failed.append(pdf.name)
 
-    print(f"\nDone. Converted {len(pdfs)} file(s).")
+    print(f"\nDone. Converted {len(pdfs) - len(failed)}/{len(pdfs)} file(s).")
+    if failed:
+        print(f"Failed ({len(failed)}):")
+        for name in failed:
+            print(f"  {name}")
 
 
 if __name__ == "__main__":
