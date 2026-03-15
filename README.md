@@ -287,6 +287,60 @@ FOMC-meeting-frequency version of market data. Same columns as `market_data_dail
 
 ---
 
+## fomc_decisions_with_docs.csv
+
+FOMC meeting decisions with associated document availability flags, one row per meeting.
+
+| Column | Description |
+|--------|-------------|
+| `date` | Meeting date |
+| `decision` | FOMC decision (HIKE / CUT / MAINTAIN) |
+| `beige_books` | Path or reference to the Beige Book for this meeting |
+| `minutes` | Path or reference to the FOMC minutes for this meeting |
+| `statements` | Path or reference to the post-meeting statement for this meeting |
+
+- **Rows:** 296
+- **Blank cells:** varies (many meetings predate available documents)
+
+---
+
+## presidential_approval_fomc.csv
+
+Presidential approval ratings aligned to each FOMC meeting date.
+
+| Column | Description |
+|--------|-------------|
+| `poll_date` | Date of the approval poll |
+| `decision_date` | FOMC meeting date the poll is matched to |
+| `decision` | FOMC decision at that meeting |
+| `president` | Name of the sitting president |
+| `approval_rating` | Presidential approval rating (%) |
+
+- **Rows:** 297
+- **Blank cells:** 0
+
+---
+
+## training_data.csv
+
+Wide merged dataset combining all feature sources, one row per FOMC meeting. Used as the primary input for model training before preprocessing. Features are lagged to the 1-, 2-, and 3-month prior periods to avoid look-ahead bias.
+
+- **Columns:** 426
+- **Rows:** 297
+- **Blank cells:** many (sparse coverage for earlier meetings where data sources are unavailable)
+
+---
+
+## training_data_preprocessed.csv
+
+Preprocessed version of `training_data.csv` with engineered features, aggregated statistics (std, min, max) over the pre-meeting window, and cleaned/imputed values ready for model input.
+
+- **Columns:** 328
+- **Rows:** 297
+- **Blank cells:** fewer than `training_data.csv` due to imputation
+
+---
+
 ## news_sentiment.csv
 
 News sentiment metrics aggregated over the pre-FOMC-meeting window, one row per meeting.
